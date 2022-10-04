@@ -19,3 +19,5 @@ Bug Found:
 * Budayakan npm update terlebih dahulu sebelum start bot.
 
 * Izin terlebih dahulu jika bukan untuk penggunaan pribadi
+
+* Bot berhenti update karena ada kendala, bot dialihkan ke fitur bot terbaru
