@@ -2,6 +2,8 @@
 
 3S~Bot MD
 
+[Moved Here](https://github.com/HabustNyeh/R.A.Zenin)
+
 Untuk bertanya atau melaporkan bug pribadi
 Email: threesbot2911@gmail.com
 
